@@ -53,7 +53,7 @@
 #     email="jamal@example.com",
 #     password="jamal@02",
 #     phone="9123498780",
-#     address="Chennai, TN"
+#     address="Chennai, TN" 
 # )
 # user8 = User(
 #     name="Santhosh M",
